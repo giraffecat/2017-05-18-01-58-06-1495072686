@@ -1,5 +1,4 @@
-module.exports = function main(a,b) {
-  var sum=a+b;
-  return sum;
-  
+module.exports = function main(a,b,c) {
+  var sum=a+b+c;
+  return sum; 
 };
